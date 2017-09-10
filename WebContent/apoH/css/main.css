@@ -1,0 +1,172 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#alltable{
+	margin-left: 420px;
+	margin-top: 130px;
+	background-image: url(../img/login_bg.jpg);
+}
+.table2{
+	line-height: 30px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 8px;
+}
+
+#alltable a{
+	color: black;
+	text-decoration: none;
+}
+#alltable a:hover{
+	color:orangered;
+	border-bottom: 1px solid red;
+}
+
+.table3{
+	line-height: 30px;
+	margin: 0 auto;
+	text-align: center;
+	font-family: "微软雅黑";
+}
+
+#bodyy{
+	margin: 0 auto;
+	width: 1430px;
+	height: 500px;
+}
+#top{
+	width: 100%;
+	height: 64px;
+	background:url(../img/top-right.gif)
+}
+#topleft{
+	width: 262px;
+	height: 64px;
+	float: left;
+	background-image: url(../img/logo.gif);
+}
+#topright{
+	margin-top: 10px;
+	width: 1000px;
+	float: left;
+	color: crimson;
+	font-family: "微软雅黑";
+}
+#toprr{
+	margin-top: 10px;
+	float: right;
+	width: 100px;
+}
+
+
+#left{
+	clear: both;
+	width: 16%;
+	height: 400px;
+	float: left;
+	font-family: "微软雅黑";
+}
+#left ul{
+	list-style-type: none;
+	text-align: center;
+	padding: 0;
+}
+.menutitle{
+	text-align: center;
+	text-decoration: none;
+	font-size: 15px;
+}
+.liA{
+	color: black;
+	text-decoration: none;
+	font-size: 7px;
+}
+.liA:hover{
+	color: black;
+	font-weight: bold;
+}
+.menu{
+	background-image: url(../img/menu_bg1.gif);
+	margin: auto;
+	width: 182px;
+	height: 26px;
+	list-style-type: none;
+	line-height: 26px;
+}
+.menu:hover{
+	background-image: url(../img/menu_bg2.gif);
+	margin: auto;
+	width: 182px;
+	height: 26px;
+	line-height: 26px;
+}
+.leftBA{
+	color: black;
+	text-decoration: none;
+}
+.leftBA:hover{
+	color: red;
+	border-bottom: 1px solid red;
+}
+.meunPic{
+	margin: auto;
+	list-style-type: none;
+	margin-bottom:8px;
+	width: 182px;
+	height: 5px;
+}
+#right{
+	width: 83%;
+	float: left;
+	border-radius: calc(10px);
+	border: 1px solid darkcyan;
+}
+
+#rigtop{
+	float: left;
+	height: 31px;
+	width: 100%;
+	background: url(../img/content-bg.gif);
+	border-radius: calc(5px);
+}
+#rigtitle{
+	width: 100px;
+	background: white;
+	border-radius: calc(2px);
+	margin-left: 20px;
+	height: 25px;
+	
+	text-align: center;
+	font-family: '微软雅黑';
+}
+
+#rigbot{
+	width: 100%;
+	float: left;
+	margin-top: 20px;
+}
+
+#rigbot table{
+	width: 80%;
+	line-height:30px;
+	font-family: "微软雅黑";
+	text-align: center;
+	margin: auto;
+}
+
+		/*#c2{
+			width: 100%;
+			height: 300px;
+			margin: auto;
+	        float: left;
+		}
+		
+		#c2 table{
+			width: 80%;
+			font-family: "微软雅黑";
+			text-align: center;
+			margin: auto;
+		}*/
